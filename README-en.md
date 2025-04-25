@@ -37,7 +37,8 @@ This is a Web Technologies I project from the Computer Engineering course. This 
 
 ## 👨‍💻  Author
 
-- Joao
+- Evecleison Albuquerque do Nascimento
+- Gutemberg
 
 ## 📄 License
 

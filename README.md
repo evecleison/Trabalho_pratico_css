@@ -35,9 +35,10 @@ Este é um trabalho de Tecnologias Web I do curso de Engenharia da Computação.
 - HTML
 - CSS
 
-## 👨‍💻  Autor
+## 👨‍💻  Autores
 
-- Joao
+- Evecleison Albuquerque do Nascimento
+- Gutemberg
 
 ## 📄 Licença
 
